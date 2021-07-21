@@ -1,0 +1,26 @@
+.eightball {
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+.eightball-text {
+    position: relative;
+    top: 50px;
+    right: 25px;
+    text-align: center;
+}
+
+.blue{
+    background-color: blue;
+}
+.red{
+    background-color: red;
+}
+.goldenrod{
+    background-color: goldenrod;
+}
+.green{
+    background-color: green;
+}
